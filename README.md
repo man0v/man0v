@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @man0v
 - 👀 I’m interested in system administration
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me - via github
 
